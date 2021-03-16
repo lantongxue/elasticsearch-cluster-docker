@@ -8,3 +8,8 @@ elastic search cluster with docker
 
 # how to use?
 `docker-compose up -d`
+
+# ports
+1. [your host]:9200 cluster
+2. [your host]:9100 es-head
+3. [your host]:5601 kibana
